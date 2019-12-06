@@ -1,2 +1,2 @@
-# azmvtimdev.github.io
+# Azimov Timur
 Мой первый публичный сайт
